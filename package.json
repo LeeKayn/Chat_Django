@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "peer": "^1.0.0",
+    "peerjs": "^1.4.7"
+  },
+  "devDependencies": {
+    "husky": "^4.3.8"
+  }
+}
