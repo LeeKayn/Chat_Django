@@ -3,8 +3,10 @@
 - Giao diện Login: 
 ![Giao diện Login](images/login.png)
 
-![Giao diện Register](images/register.png.png)
+- Giao diện Register: 
+![Giao diện Register](images/register.png)
 
+- Giao diện Chat:
 ![Giao diện Chat](images/chat.png)
 
 
