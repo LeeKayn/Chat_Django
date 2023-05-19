@@ -7,7 +7,7 @@ from django.utils import timezone
 import pytz
 
 class Room(models.Model):
-    id=models.UUIDField(primary_key=True,default=uuid.uuid4())
+    id=models.UUIDField(primary_key=True,default=uuid.uuid4)
     first_user=models.ForeignKey(User,related_name="room_first",on_delete=models.CASCADE,null=True)
     second_user = models.ForeignKey(User, related_name="room_second", on_delete=models.CASCADE,null=True)
 
