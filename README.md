@@ -10,5 +10,6 @@
 ![Giao diện Chat](images/chat.png)
 
 - Giao diện Video call:
+![Giao diện Video Call](images/img.png)
 
 
