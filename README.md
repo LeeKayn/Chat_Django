@@ -9,5 +9,6 @@
 - Giao diện Chat:
 ![Giao diện Chat](images/chat.png)
 
+- Giao diện Video call:
 
 
